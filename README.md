@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋, I'm Pooja Kumari
 
-<!--
-**Poojaaa-del/Poojaaa-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | AIML Enthusiast | ECE @ NIT Mizoram
 
-Here are some ideas to get you started:
+* 🎓 B.Tech in Electronics & Communication Engineering with Minor in AIML
+* 🔬 Research Intern at IIT Madras
+* 🌱 Exploring Full Stack Development, AI/ML & Deep Learning
+* 💻 Building scalable web applications using React, Next.js & Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, JavaScript, C++
+**Frontend:** React.js, Next.js, HTML, CSS
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
+**Tools:** Git, GitHub, VS Code, MATLAB
+
+---
+
+## 📌 Projects
+
+### 🌐 Internshala Clone
+
+Full Stack Internship & Job Portal using Next.js, Node.js, Express.js & MongoDB.
+
+### 💖 Aarogya Naari
+
+Women’s health platform with period tracking, wellness guides & appointment booking.
+
+---
+
+## 🏆 Achievements
+
+* 🥇 IE(I) Calendar Design Competition Winner
+* 🌟 ML Training Top Performer — Internshala
+* 👩‍💼 Website & Media Coordinator — T&P Cell, NIT Mizoram
+
+---
+
+## 📊 GitHub Stats
+
+![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poojaaa-del\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/pooja-kumari-nitmz)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:poojapvt08@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Poojaaa-del)
+
+---
+
+```python
+while True:
+    learn()
+    build()
+    grow()
+```
