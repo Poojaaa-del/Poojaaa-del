@@ -39,11 +39,6 @@ Women’s health platform with period tracking, wellness guides & appointment bo
 
 ---
 
-## 📊 GitHub Stats
-
-![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poojaaa-del\&show_icons=true\&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
